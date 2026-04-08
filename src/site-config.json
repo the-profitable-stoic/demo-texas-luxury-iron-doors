@@ -1,0 +1,564 @@
+{
+  "business": {
+    "name": "“TEXAS LUXURY IRON DOORS “",
+    "phone": "+12818189945",
+    "category": "remodeling contractor",
+    "city": "Houston",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Houston's Iron Door Experts",
+      "heroSubline": "Luxury iron doors, expertly installed and built to withstand the Texas climate. Elevate your home's security and curb appeal.",
+      "aboutTitle": "Crafting Houston's Entryways for Over a Decade",
+      "aboutText": [
+        "Texas Luxury Iron Doors started with a simple vision: to bring unparalleled elegance and security to Houston homes. We're not just selling doors; we're crafting first impressions that last a lifetime.",
+        "Our approach is straightforward: meticulous craftsmanship, durable materials, and personalized service. We understand the unique challenges Houston's climate presents, and our doors are built to endure.",
+        "We're deeply rooted in the Houston community, committed to providing top-quality iron doors to our neighbors in Sugar Land, Katy, and beyond. We stand behind our work and prioritize your satisfaction."
+      ],
+      "valueProps": [
+        {
+          "title": "Custom Designs",
+          "description": "From classic to contemporary, we create iron doors tailored to your specific style and architectural needs."
+        },
+        {
+          "title": "Unmatched Security",
+          "description": "Our doors are built with robust materials and locking systems, providing superior protection for your home and family."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures a seamless and secure installation, guaranteeing optimal performance and longevity."
+        },
+        {
+          "title": "Weather Resistant",
+          "description": "Engineered to withstand Houston's harsh climate, our iron doors resist rust, corrosion, and warping."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today",
+      "ctaSubline": "Request a free consultation and discover the perfect iron door for your Houston home."
+    },
+    "services": [
+      {
+        "slug": "custom-iron-door-design",
+        "name": "Custom Iron Door Design",
+        "shortDescription": "Design your dream iron door with our expert team.",
+        "description": "We specialize in creating custom iron door designs that perfectly complement your home's architecture and reflect your personal style. Our design process begins with a detailed consultation to understand your vision and preferences. We then utilize advanced CAD software to create precise renderings, ensuring every detail is meticulously planned. From selecting the ironwork patterns to choosing the right finish, we guide you through every step of the process. We consider Houston's climate, recommending durable coatings and weather-resistant materials to ensure your custom door stands the test of time. Whether you're looking for a grand entrance or a subtle touch of elegance, our custom iron door designs will elevate your home's curb appeal and security.",
+        "process": [
+          "Step 1: Initial Consultation - Discuss your design ideas and preferences.",
+          "Step 2: Design Creation - Our team creates detailed CAD renderings.",
+          "Step 3: Material Selection - Choose from a range of high-quality materials and finishes.",
+          "Step 4: Fabrication & Installation - Expert craftsmanship and professional installation."
+        ],
+        "benefits": [
+          "Unique and personalized design",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Superior security"
+        ],
+        "faq": [
+          {
+            "question": "What is the typical lead time for a custom iron door?",
+            "answer": "The lead time varies depending on the complexity of the design, but it typically ranges from 8 to 12 weeks."
+          },
+          {
+            "question": "Can I incorporate my own design ideas?",
+            "answer": "Absolutely! We encourage you to share your ideas and inspiration with our design team."
+          },
+          {
+            "question": "Are your iron doors energy efficient?",
+            "answer": "Yes, our iron doors are designed with energy-efficient features, such as insulated glass and weather stripping, to minimize heat transfer."
+          }
+        ]
+      },
+      {
+        "slug": "iron-door-installation",
+        "name": "Iron Door Installation",
+        "shortDescription": "Professional iron door installation for lasting performance.",
+        "description": "Proper installation is crucial for the performance and longevity of your iron door. Our experienced installation team ensures a seamless and secure fit, paying close attention to every detail. We begin by carefully removing your existing door and preparing the opening. We then meticulously install the new iron door, ensuring it is plumb, level, and properly aligned. Our team is trained to handle the unique challenges of Houston's diverse housing stock, from older ranch homes in the inner loop to newer constructions in the suburbs. We use high-quality hardware and weather stripping to create a tight seal, preventing drafts and water damage. With our professional installation services, you can rest assured that your iron door will provide years of reliable security and beauty.",
+        "process": [
+          "Step 1: Site Assessment - Evaluate the existing door opening and prepare for installation.",
+          "Step 2: Door Removal - Carefully remove the old door and frame.",
+          "Step 3: Iron Door Installation - Precisely install the new iron door, ensuring proper alignment.",
+          "Step 4: Finishing Touches - Install hardware, weather stripping, and make any necessary adjustments."
+        ],
+        "benefits": [
+          "Secure and reliable installation",
+          "Optimal door performance",
+          "Protection against drafts and water damage",
+          "Extended door lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How long does iron door installation typically take?",
+            "answer": "The installation process usually takes between 4 to 8 hours, depending on the complexity of the project."
+          },
+          {
+            "question": "Do you offer a warranty on your installation services?",
+            "answer": "Yes, we provide a comprehensive warranty on our installation services to ensure your peace of mind."
+          },
+          {
+            "question": "Will you dispose of my old door?",
+            "answer": "Yes, we will remove and dispose of your old door as part of our installation service."
+          }
+        ]
+      },
+      {
+        "slug": "iron-door-repair-maintenance",
+        "name": "Iron Door Repair & Maintenance",
+        "shortDescription": "Keep your iron door in top condition with our repair services.",
+        "description": "Even the most durable iron doors require occasional maintenance and repairs. Our team provides comprehensive repair and maintenance services to keep your iron door in top condition. We handle everything from minor adjustments to major repairs, addressing issues such as rust, corrosion, damaged hardware, and misaligned frames. We understand the impact of Houston's humid climate on iron doors, and we use specialized techniques and coatings to protect against moisture damage. Our maintenance services include cleaning, lubricating hinges, and applying protective finishes to extend the life of your door. With our expert repair and maintenance services, you can ensure your iron door continues to provide security and beauty for years to come.",
+        "process": [
+          "Step 1: Inspection - Thoroughly inspect the door for any signs of damage or wear.",
+          "Step 2: Repair - Address any issues, such as rust, corrosion, or damaged hardware.",
+          "Step 3: Maintenance - Clean, lubricate, and apply protective finishes.",
+          "Step 4: Final Check - Ensure the door is functioning properly and securely."
+        ],
+        "benefits": [
+          "Extended door lifespan",
+          "Improved security",
+          "Enhanced appearance",
+          "Prevention of costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my iron door serviced?",
+            "answer": "We recommend having your iron door serviced annually to ensure it remains in optimal condition."
+          },
+          {
+            "question": "What are the common signs that my iron door needs repair?",
+            "answer": "Common signs include rust, corrosion, difficulty opening or closing the door, and damaged hardware."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we provide emergency repair services for urgent issues that compromise your home's security."
+          }
+        ]
+      },
+      {
+        "slug": "iron-door-painting-finishing",
+        "name": "Iron Door Painting & Finishing",
+        "shortDescription": "Refresh your iron door with professional painting and finishing.",
+        "description": "A fresh coat of paint or a new finish can dramatically enhance the appearance of your iron door. Our painting and finishing services revitalize your door, protecting it from the elements and restoring its beauty. We use high-quality paints and coatings specifically designed for iron, ensuring a durable and long-lasting finish. Our team carefully prepares the surface, removing any rust or old paint before applying the new coating. We offer a wide range of colors and finishes to match your home's style and personal preferences. Whether you want to maintain the classic look of your iron door or give it a modern makeover, our painting and finishing services will exceed your expectations. We understand Houston's intense sun and humidity, and we use UV-resistant coatings to prevent fading and cracking.",
+        "process": [
+          "Step 1: Surface Preparation - Clean and prepare the door surface.",
+          "Step 2: Priming - Apply a high-quality primer.",
+          "Step 3: Painting - Apply the chosen paint or finish.",
+          "Step 4: Sealing - Seal the finish for added protection and durability."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Protection from the elements",
+          "Increased door lifespan",
+          "Customized look"
+        ],
+        "faq": [
+          {
+            "question": "How long does the painting and finishing process take?",
+            "answer": "The process typically takes 2 to 3 days, depending on the size and complexity of the door."
+          },
+          {
+            "question": "What types of paint and finishes do you offer?",
+            "answer": "We offer a wide range of paints and finishes, including powder coating, enamel, and faux finishes."
+          },
+          {
+            "question": "Is it necessary to prime the door before painting?",
+            "answer": "Yes, priming is essential for ensuring proper adhesion and a long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "iron-gate-installation",
+        "name": "Iron Gate Installation",
+        "shortDescription": "Secure your property with custom iron gate installation.",
+        "description": "Extend the elegance and security of iron to your property's perimeter with our custom iron gate installation services. We design and install iron gates to match your existing iron doors or to create a standalone statement. Our team handles every aspect of the installation process, from site preparation to gate automation. We offer a variety of gate styles, including swing gates, sliding gates, and pedestrian gates, all custom-built to your specifications. We understand the importance of security, and we use robust materials and locking systems to ensure your property is protected. Whether you're looking to enhance your home's curb appeal or improve security, our iron gate installation services will provide a lasting solution. We take into account Houston's frequent flooding, elevating gate mechanisms where appropriate.",
+        "process": [
+          "Step 1: Site Survey and Design - Evaluate property and create gate design.",
+          "Step 2: Fabrication - Construct the iron gate to exact specifications.",
+          "Step 3: Installation - Professionally install the gate and automation system.",
+          "Step 4: Testing and Calibration - Ensure smooth and secure operation."
+        ],
+        "benefits": [
+          "Enhanced security",
+          "Increased property value",
+          "Improved curb appeal",
+          "Customized design"
+        ],
+        "faq": [
+          {
+            "question": "Can you automate my iron gate?",
+            "answer": "Yes, we offer a wide range of gate automation options, including remote control and keypad entry."
+          },
+          {
+            "question": "What types of locking systems do you offer?",
+            "answer": "We offer a variety of locking systems, including electric strikes, magnetic locks, and mechanical locks."
+          },
+          {
+            "question": "How long does iron gate installation typically take?",
+            "answer": "The installation process usually takes between 1 to 3 days, depending on the complexity of the project."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-iron-doors",
+        "name": "Commercial Iron Doors",
+        "shortDescription": "Secure and stylish iron doors for Houston businesses.",
+        "description": "Texas Luxury Iron Doors provides commercial iron door solutions for businesses in Houston. We offer custom designs, durable construction, and professional installation. Our commercial iron doors provide enhanced security and a sophisticated look for your business. We can help you select the perfect iron door to complement your brand and building architecture. From small retail shops in The Heights to large office buildings in Midtown, we have a solution for you. We understand the importance of security for businesses, and our doors are built to withstand forced entry. We also offer maintenance and repair services to keep your commercial iron doors in top condition.",
+        "process": [
+          "Step 1: Consultation and Design - Discuss your specific needs and design preferences.",
+          "Step 2: Manufacturing - Custom manufacture the iron door to meet your specifications.",
+          "Step 3: Installation - Professional installation by our experienced team.",
+          "Step 4: Maintenance - Ongoing maintenance and repair services."
+        ],
+        "benefits": [
+          "Enhanced security for your business",
+          "Improved curb appeal",
+          "Increased property value",
+          "Customized designs to match your brand"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer fire-rated iron doors?",
+            "answer": "Yes, we can provide fire-rated iron doors for commercial applications."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Sugar Land",
+        "slug": "sugar-land-tx",
+        "state": "TX",
+        "content": "TEXAS LUXURY IRON DOORS is proud to offer our custom iron door design, fabrication, and installation services to the residents of Sugar Land, Texas. Known for its master-planned communities that blossomed in the 1990s and 2000s, Sugar Land boasts beautiful homes that deserve equally stunning entryways. Our iron doors add a touch of elegance and security, perfectly complementing the established aesthetic of this vibrant city. We understand the unique architectural styles prevalent in Sugar Land and can create custom designs to match your home's individual character.\n\nWe’re committed to providing Sugar Land homeowners with exceptional craftsmanship and unparalleled customer service. From initial design consultation to final installation, our team will work closely with you to ensure your complete satisfaction. We understand the challenges posed by the hot, humid summers in Sugar Land. That's why our iron doors are built to withstand the elements, providing lasting beauty and security for years to come. We use high-quality materials and expert techniques to ensure your iron door will be a valuable addition to your home.",
+        "localContext": "Sugar Land, Texas, is a large suburban city known for its 1990s and 2000s master-planned communities and enduring appeal.",
+        "nearbyAreas": [
+          "Missouri City",
+          "Stafford",
+          "Richmond"
+        ]
+      },
+      {
+        "city": "Katy",
+        "slug": "katy-tx",
+        "state": "TX",
+        "content": "TEXAS LUXURY IRON DOORS brings unparalleled elegance and security to homes in Katy, Texas. Known for its newer, rapidly growing planned communities that sprung up from the 2000s to the 2020s, Katy is a city of modern homes that deserve equally modern and stylish entryways. Our custom iron doors add a distinctive touch of sophistication, enhancing your home's curb appeal and providing an additional layer of protection.\n\nWe understand the specific needs of Katy homeowners. Our iron doors are crafted to withstand the intense heat and humidity of Texas summers, ensuring lasting beauty and durability. From design to installation, our team provides exceptional service. We work closely with you to create a custom iron door that reflects your personal style and complements your home's architecture.",
+        "localContext": "Katy, Texas, is a vibrant city characterized by its family-friendly atmosphere and its proliferation of planned communities built from the 2000s to the 2020s.",
+        "nearbyAreas": [
+          "Brookshire",
+          "Fulshear",
+          "Cinco Ranch"
+        ]
+      },
+      {
+        "city": "The Woodlands",
+        "slug": "the-woodlands-tx",
+        "state": "TX",
+        "content": "TEXAS LUXURY IRON DOORS provides custom iron door solutions to the discerning homeowners of The Woodlands, Texas. This master-planned community, with homes built from the 1980s to the present, deserves entryways that reflect its sophisticated and upscale character. Our iron doors offer a blend of beauty, security, and lasting value.\n\nWe understand the unique architectural styles found throughout The Woodlands. We work closely with homeowners to create custom designs that perfectly complement their homes. Our iron doors are built to withstand the hot, humid Texas climate, ensuring years of reliable performance. From initial consultation to professional installation, our team is dedicated to providing exceptional service and exceeding your expectations.",
+        "localContext": "The Woodlands, Texas, is a well-known master-planned community with homes constructed from the 1980s to the present, offering a diverse range of architectural styles.",
+        "nearbyAreas": [
+          "Spring",
+          "Conroe",
+          "Tomball"
+        ]
+      },
+      {
+        "city": "Pearland",
+        "slug": "pearland-tx",
+        "state": "TX",
+        "content": "TEXAS LUXURY IRON DOORS is dedicated to providing Pearland, Texas, homeowners with beautiful and secure custom iron doors. Pearland, known for its suburban developments from the 1990s and 2000s, features homes that can be enhanced with the timeless elegance of wrought iron. Our doors add a touch of sophistication and security, enhancing your home's curb appeal.\n\nWe understand the needs of Pearland residents. Our iron doors are built to withstand the hot, humid Texas climate, ensuring lasting beauty and performance. From design to installation, our team is committed to providing exceptional customer service and exceeding your expectations. We work closely with you to create a custom iron door that reflects your personal style and complements your home's architecture.",
+        "localContext": "Pearland, Texas, is a large suburban city with many homes originating from the 1990s and 2000s, providing a blend of established and modern aesthetics.",
+        "nearbyAreas": [
+          "Friendswood",
+          "Alvin",
+          "League City"
+        ]
+      },
+      {
+        "city": "League City",
+        "slug": "league-city-tx",
+        "state": "TX",
+        "content": "TEXAS LUXURY IRON DOORS proudly serves the residents of League City, Texas, offering custom iron door solutions that combine beauty, security, and lasting value. Known for its newer developments from the 2000s onward, League City boasts modern homes that can be further enhanced with the elegance of our iron doors. We provide homeowners with a wide range of custom design options.\n\nWe understand the unique architectural styles in League City. Our iron doors are built to withstand the hot, humid Texas climate, ensuring years of reliable performance. From initial design consultation to professional installation, our team is dedicated to providing exceptional service and exceeding your expectations. Enhance your home with a custom iron door that reflects your personal style.",
+        "localContext": "League City, Texas, is a growing city characterized by its newer home developments from the 2000s onward, reflecting a contemporary suburban lifestyle.",
+        "nearbyAreas": [
+          "Dickinson",
+          "Kemah",
+          "Webster"
+        ]
+      },
+      {
+        "city": "Missouri City",
+        "slug": "missouri-city-tx",
+        "state": "TX",
+        "content": "Elevate your home's aesthetic with TEXAS LUXURY IRON DOORS in Missouri City, Texas. Our handcrafted iron doors provide an elegant and secure entryway, perfectly complementing the diverse architectural styles found throughout the city. We specialize in creating custom designs tailored to your unique preferences and home's character.\n\nMissouri City homeowners appreciate quality and lasting value. Our iron doors are meticulously crafted from premium materials, ensuring exceptional durability and resistance to the harsh Texas climate. We offer a seamless experience from design consultation to professional installation, ensuring your complete satisfaction. Let us transform your entryway into a stunning focal point that enhances your home's curb appeal and provides peace of mind.",
+        "localContext": "Missouri City, Texas, features a diverse range of housing styles, offering homeowners the opportunity to enhance their properties with custom iron doors.",
+        "nearbyAreas": [
+          "Sugar Land",
+          "Stafford",
+          "Fresno"
+        ]
+      },
+      {
+        "city": "Spring",
+        "slug": "spring-tx",
+        "state": "TX",
+        "content": "Enhance the beauty and security of your home in Spring, Texas, with TEXAS LUXURY IRON DOORS. Our custom iron doors are designed to add a touch of elegance and sophistication to any entryway. We work closely with homeowners to create unique designs that perfectly complement their home's architecture and personal style.\n\nSpring residents value quality craftsmanship and exceptional service. Our iron doors are expertly handcrafted using premium materials, ensuring long-lasting durability and resistance to the elements. We provide a seamless installation process, minimizing disruption to your daily life. Let us help you create a grand entrance that makes a lasting impression and provides added security for your family.",
+        "localContext": "Spring, Texas, offers a wide variety of housing options, making custom iron doors a popular choice for homeowners seeking to enhance their property's curb appeal.",
+        "nearbyAreas": [
+          "The Woodlands",
+          "Conroe",
+          "Tomball"
+        ]
+      },
+      {
+        "city": "Friendswood",
+        "slug": "friendswood-tx",
+        "state": "TX",
+        "content": "TEXAS LUXURY IRON DOORS is proud to offer our custom iron door design, fabrication, and installation services to the residents of Friendswood, Texas. Enhance your home with an iron door that exudes elegance and security. Our iron doors are expertly constructed, and add a touch of sophistication to any entryway.\n\nWe’re committed to providing Friendswood homeowners with exceptional craftsmanship and unparalleled customer service. From initial design consultation to final installation, our team will work closely with you to ensure your complete satisfaction. We understand the challenges posed by the hot, humid summers in Friendswood. That's why our iron doors are built to withstand the elements, providing lasting beauty and security for years to come. We use high-quality materials and expert techniques to ensure your iron door will be a valuable addition to your home.",
+        "localContext": "Friendswood, Texas, is a charming community known for its well-maintained homes and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Pearland",
+          "League City",
+          "Alvin"
+        ]
+      },
+      {
+        "city": "Richmond",
+        "slug": "richmond-tx",
+        "state": "TX",
+        "content": "Increase your homes curb appeal with TEXAS LUXURY IRON DOORS in Richmond, Texas. Our handcrafted iron doors provide an elegant and secure entryway, perfectly complementing the diverse architectural styles found throughout the city. We specialize in creating custom designs tailored to your unique preferences and home's character.\n\nRichmond homeowners appreciate quality and lasting value. Our iron doors are meticulously crafted from premium materials, ensuring exceptional durability and resistance to the harsh Texas climate. We offer a seamless experience from design consultation to professional installation, ensuring your complete satisfaction. Let us transform your entryway into a stunning focal point that enhances your home's curb appeal and provides peace of mind.",
+        "localContext": "Richmond, Texas, features a diverse range of housing styles, offering homeowners the opportunity to enhance their properties with custom iron doors.",
+        "nearbyAreas": [
+          "Sugar Land",
+          "Rosenberg",
+          "Katy"
+        ]
+      },
+      {
+        "city": "Conroe",
+        "slug": "conroe-tx",
+        "state": "TX",
+        "content": "TEXAS LUXURY IRON DOORS brings custom iron door solutions to the discerning homeowners of Conroe, Texas. Our iron doors offer a blend of beauty, security, and lasting value.\n\nWe understand the unique architectural styles found throughout Conroe. We work closely with homeowners to create custom designs that perfectly complement their homes. Our iron doors are built to withstand the hot, humid Texas climate, ensuring years of reliable performance. From initial consultation to professional installation, our team is dedicated to providing exceptional service and exceeding your expectations.",
+        "localContext": "Conroe, Texas, is a growing city with a variety of housing styles, offering homeowners the opportunity to enhance their properties with custom iron doors.",
+        "nearbyAreas": [
+          "The Woodlands",
+          "Spring",
+          "Willis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Custom Iron Door Design & Installation",
+        "text": "Texas Luxury Iron Doors exceeded my expectations! The custom design process was easy, and the installation was flawless. My new iron door has completely transformed the look of my home. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Iron Door Repair",
+        "text": "My iron door was starting to rust and looked terrible. Texas Luxury Iron Doors repaired it quickly and professionally. It looks brand new again! Very happy with their service.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 4,
+        "service": "Iron Gate Installation",
+        "text": "The iron gate installation was well done. There was a minor hiccup with the automated system, but they came back and fixed it promptly. Overall, a great experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Susan K.",
+        "rating": 5,
+        "service": "Iron Door Painting & Finishing",
+        "text": "I wanted to update the look of my iron door, and Texas Luxury Iron Doors did an amazing job. The new finish is beautiful, and it really makes my entryway stand out. The technician was very professional and meticulous.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Commercial Iron Door Installation",
+        "text": "We needed a secure and stylish entrance for our new office building, and Texas Luxury Iron Doors delivered. The commercial iron door is exactly what we wanted, and the installation was quick and efficient. Great job!",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Jennifer A.",
+        "rating": 5,
+        "service": "Custom Iron Door",
+        "text": "From design to install, an outstanding company. They really listened to my vision, and the final product is stunning. Worth every penny!",
+        "date": "2025-05-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Houston TX Iron Doors | Custom Designs",
+        "description": "Luxury iron door design, installation & repair in Houston. Custom iron gates, expert service. Free quotes!"
+      },
+      "about": {
+        "title": "About Texas Luxury Iron Doors | Houston TX",
+        "description": "Learn about Texas Luxury Iron Doors, Houston's premier iron door specialists. Craftsmanship, security, and style."
+      },
+      "services": {
+        "title": "Iron Door Services | Houston TX",
+        "description": "Custom iron doors, installation, repair, and maintenance services in Houston. Enhance your home's security and beauty."
+      },
+      "contact": {
+        "title": "Contact Texas Luxury Iron Doors | Houston TX",
+        "description": "Contact Texas Luxury Iron Doors for a free consultation. Custom iron door design, installation, and repair services."
+      },
+      "reviews": {
+        "title": "Texas Luxury Iron Doors Reviews | Houston TX",
+        "description": "Read reviews from satisfied Texas Luxury Iron Doors customers. Custom iron doors, installation, and repair services. Houston, TX."
+      },
+      "service-areas": {
+        "title": "Service Areas | Texas Luxury Iron Doors",
+        "description": "Texas Luxury Iron Doors provides iron door services in Houston, Sugar Land, Katy, The Woodlands, Pearland, League City."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-iron-door-design": "/images/service-custom-iron-door-design.webp",
+      "iron-door-installation": "/images/service-iron-door-installation.webp",
+      "iron-door-repair-maintenance": "/images/service-iron-door-repair-maintenance.webp",
+      "iron-door-painting-finishing": "/images/service-iron-door-painting-finishing.webp",
+      "iron-gate-installation": "/images/service-iron-gate-installation.webp",
+      "commercial-iron-doors": "/images/service-commercial-iron-doors.webp"
+    },
+    "servicesResponsive": {
+      "custom-iron-door-design": {
+        "src": "/images/service-custom-iron-door-design.webp",
+        "srcset": "/images/service-custom-iron-door-design-400w.webp 400w, /images/service-custom-iron-door-design-800w.webp 800w, /images/service-custom-iron-door-design-1200w.webp 1200w, /images/service-custom-iron-door-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "iron-door-installation": {
+        "src": "/images/service-iron-door-installation.webp",
+        "srcset": "/images/service-iron-door-installation-400w.webp 400w, /images/service-iron-door-installation-800w.webp 800w, /images/service-iron-door-installation-1200w.webp 1200w, /images/service-iron-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "iron-door-repair-maintenance": {
+        "src": "/images/service-iron-door-repair-maintenance.webp",
+        "srcset": "/images/service-iron-door-repair-maintenance-400w.webp 400w, /images/service-iron-door-repair-maintenance-800w.webp 800w, /images/service-iron-door-repair-maintenance-1200w.webp 1200w, /images/service-iron-door-repair-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "iron-door-painting-finishing": {
+        "src": "/images/service-iron-door-painting-finishing.webp",
+        "srcset": "/images/service-iron-door-painting-finishing-400w.webp 400w, /images/service-iron-door-painting-finishing-800w.webp 800w, /images/service-iron-door-painting-finishing-1200w.webp 1200w, /images/service-iron-door-painting-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "iron-gate-installation": {
+        "src": "/images/service-iron-gate-installation.webp",
+        "srcset": "/images/service-iron-gate-installation-400w.webp 400w, /images/service-iron-gate-installation-800w.webp 800w, /images/service-iron-gate-installation-1200w.webp 1200w, /images/service-iron-gate-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-iron-doors": {
+        "src": "/images/service-commercial-iron-doors.webp",
+        "srcset": "/images/service-commercial-iron-doors-400w.webp 400w, /images/service-commercial-iron-doors-800w.webp 800w, /images/service-commercial-iron-doors-1200w.webp 1200w, /images/service-commercial-iron-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
